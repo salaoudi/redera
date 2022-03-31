@@ -24,7 +24,7 @@ I used Firebase Storage to store users posts and Images.
 
 <a href="url"><img src="https://user-images.githubusercontent.com/79456369/161061466-8cb92bb6-c819-4ec3-a048-b890efdd8598.png" align="left" height="650" width="300" ></a> 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/79456369/161061469-c5bb9439-b99e-4671-9484-5c146429e350.png" align="left" height="650" width="300" ></a> 
+<a href="url"><img src="https://user-images.githubusercontent.com/79456369/161061469-c5bb9439-b99e-4671-9484-5c146429e350.png" align="center" height="650" width="500" ></a> 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/79456369/161061472-c47291f8-d548-46ca-8baf-12ff1c0e109b.png" align="left" height="650" width="300" ></a> 
 
